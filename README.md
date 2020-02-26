@@ -11,8 +11,9 @@ import matplotlib.pyplot as plt
 from collections import Counter
 ```
 #Antes de importar os arquivos, tive de alterar a estrutura do json com as seguintes informações:
-# "datas":{[
-]}
+# {
+#  "datas":[
+#]}
 #
 #Importando o primeiro arquivo para o python
 ```python
